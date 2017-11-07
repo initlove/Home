@@ -3,10 +3,11 @@
 This is the home of the EulerOS iSula community, it provides the whole picture.
 
 ## Table of Contents
+- [Introduction](introduction.md)
 - [Map](#map)
 - [Projects](#projects)
 - [Services](#services)
-- [Container Images](#images)
+- [Container Images](#container-images)
 - [How to participate](#how-to-participate)
 
 ## Map
@@ -25,7 +26,7 @@ The iSula community contains many projects, simply we can divided them into thre
    We will definitly host them in this github account.
    Hopefully they can be accepted by open-source foundations, it will be our honor to donate them.
 
-### Repos
+### [Repos](https://github.com/isula/repos)
 
 The rpm package repositories are the source of the iSula.
 We will package them in [Repos](https://github.com/isula/repos).
@@ -82,6 +83,7 @@ If anyone want to start a meeting, please contact David Liang <liangchenye@gmail
 - [twitter](https://twitter.com/eulerosisula)
 - [weblog](https://weibo.com/eulerosisula)
 - Wechat official account
+
   ![Wechat official account](images/isula-wechat.jpg)
 
 ### Git commit
