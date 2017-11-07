@@ -16,13 +16,16 @@ This is the home of the EulerOS iSula community, it provides the whole picture.
 ## Projects
 
 The iSula community contains many projects, simply we can divided them into three categories:
-1. from upstream, not modified
+- from upstream, not modified
+
    We won't fork them and we will package them.
-2. from upstream, modified
+- from upstream, modified
+
    We will fork them and try our best to send patches upstream.
    For patches that cannot/is-not accepted by upstream, we will put them to a `isula` branch.
    That will be a 'shadow branch'.
-3. start by iSula community
+- start by iSula community
+
    We will definitly host them in this github account.
    Hopefully they can be accepted by open-source foundations, it will be our honor to donate them.
 
